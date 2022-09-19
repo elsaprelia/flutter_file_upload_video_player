@@ -30,20 +30,7 @@ Video Player Plugin
 
 * Tampilan upload dari gallery
 
-![Hasil Upload File](./images/04.png)
 
-* Tampilan upload dari camera
-
-![Hasil Upload File](./images/05.png)
-
-* Tampilan hasil upload
-
-### Video Player
-![Hasil Video Player](./images/06.png)
-
-* Menampilkan tampilan video player
-
-![Hasil Video Player](./images/07.png)
 
 * Menampilkan tampilan video player yang sudah diputar
 
